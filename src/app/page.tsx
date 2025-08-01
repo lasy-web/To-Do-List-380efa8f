@@ -1,4 +1,3 @@
-```tsx
 import { MadeWithLasy } from "@/components/made-with-lasy";
 
 export default function Home() {
@@ -14,4 +13,3 @@ export default function Home() {
     </div>
   );
 }
-```
